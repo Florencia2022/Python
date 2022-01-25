@@ -1,5 +1,6 @@
 '''Son muchas las concesionarias que en el úlƟmo Ɵempo se han visto afectados por el poderoso
-virus PANTEVIL que ataca los registros de automóviles, alterando el identificador de la patente de los
+virus PANTEVIL que ataca los registros de automóviles, alterando el identificador de la patente de 
+los
 mismos. Sabemos que el identi ficador de patente de un automóvil está compuesto por 3 letras en
 mayúsculas y 3 números, por ejemplo AED335.
 Luego de un exhausƟvo análisis de los registros infectados, se logró decodificar cómo funciona el
